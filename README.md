@@ -58,7 +58,6 @@ The more you learned, the more you will find the shortcomings in the work of the
 Together we can make it better, at the same time practicing in programming.
 
 # Requirements
-
 OS: Windows  
 Platform: .NET 6
 
