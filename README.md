@@ -66,3 +66,4 @@ Platform: .NET 6
 Use it for basic necessities.
 * **developing** - "hot" branch. Refactoring, fixing and impoving.  
 Use it if you need changes, better performance and etc.
+
